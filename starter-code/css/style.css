@@ -25,6 +25,10 @@ footer {
 	clear: both;
 	background: #808080;
 }
+img {
+	
+	max-height: 100%;
+}
 .clearfix:after {
 	visibility: hidden;
     display: block;
